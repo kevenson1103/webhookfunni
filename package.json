@@ -1,0 +1,20 @@
+{
+  "name": "webhookfunni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevenson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security",
+    "node": "^16.6.1",
+    "node-fetch": "^2.6.6",
+    "process": "^0.11.10",
+    "seconds-time-formatter": "^1.1.4",
+    "unirest": "^0.6.0"
+  }
+}
